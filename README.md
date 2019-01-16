@@ -23,11 +23,11 @@ which contains:
  
  Screenshots for the three main interfaces :
  
- <img src="screenshots/lexical-analysis-UI.png">
+ <img src="screenshots/lexical-analysis-UI.png" width="80%">
  
- <img src="screenshots/LR1-parsing-UI.png">
+ <img src="screenshots/LR1-parsing-UI.png" width="80%">
  
- <img src="screenshots/Type-checking-UI.png">
+ <img src="screenshots/Type-checking-UI.png" width="80%">
  
  -----------------------------------------------------------------------------------------------------
  
