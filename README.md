@@ -20,7 +20,17 @@ which contains:
 2) showing excution steps while processing the input code.
          
  -----------------------------------------------------------------------------------------------------
-         
+ 
+ Screenshots for the three main interfaces :
+ 
+ <img src="screenshots/lexical-analysis-UI.png">
+ 
+ <img src="screenshots/LR1-parsing-UI.png">
+ 
+ <img src="screenshots/Type-checking-UI.png">
+ 
+ -----------------------------------------------------------------------------------------------------
+ 
 (( TO EXCUTE THE PROJECT ))
 There are three packages :  
 Lexical analysis, LR1 parsing AND Type checking
